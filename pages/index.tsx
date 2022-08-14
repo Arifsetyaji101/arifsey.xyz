@@ -18,8 +18,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          Get started 
-          Beberapa project yang sedang saya kembangkan dan pelajari
+        Beberapa project yang sedang saya kembangkan dan pelajari
         </p>
 
         <div className={styles.grid}>
