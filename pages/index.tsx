@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="http://tararevel.herokuapp.com" className={styles.card}>
+          <a href="https://tararevel.herokuapp.com" className={styles.card}>
             <h2>Tararevel</h2>
             <p>Website tour and travel bagi kalian yang ingin menjelajah ke berbagai tempat hanya dengan 1 klik</p>
           </a>
