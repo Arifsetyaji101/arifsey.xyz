@@ -27,10 +27,10 @@ const Home: NextPage = () => {
             <p>Website tour and travel bagi kalian yang ingin menjelajah ke berbagai tempat hanya dengan 1 klik</p>
           </a>
 
-          <a href="https://htmlsass-1.herokuapp.com" className={styles.card}>
+<!--           <a href="https://htmlsass-1.herokuapp.com" className={styles.card}>
             <h2>Website Slicing Html dan Sass 1</h2>
             <p>Web tempat saya latihan mengkonversi dari design ke bentuk website dengan teknologi Html dan Sass</p>
-          </a>
+          </a> -->
         </div>
       </main>
 
